@@ -92,7 +92,7 @@ on:
       cpufreq:
         description: 'CPU 频率 (MHz)'
         type: boolean
-        默认: true
+        default: true
       mt7621_oc:
         description: '1000Mhz=0x312 1100Mhz=0x362 1120Mhz=0x372 1200Mhz=0x3B2'
         type: choice
@@ -101,7 +101,7 @@ on:
         - '0x362'
         - '0x372'
         - '0x3B2'
-        默认: '0x362'
+        default: '0x362'
       plugins:
         description: 'JSON：插件列表plug-ins'
         required: true
