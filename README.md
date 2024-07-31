@@ -7,7 +7,7 @@
   ![run workflow](public/run-workflow.webp)
 
 ### 登录详细信息:
-- IP地址: 192.168.2.1 or http://my.router
+- IP地址: 192.168.123.1 or http://my.router
 - 用户名: admin
 - 登录密码: admin
 - WiFi名称: 2.4GHz：Padavan
